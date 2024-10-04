@@ -30,3 +30,7 @@ Melalui analisis faktor-faktor ini, penelitian ini akan mengeksplorasi bagaimana
 2. Bagaimana komposisi masyarakat usia produktif memengaruhi tingkat pemerataan ekonomi di wilayah ini?
 3. Bagaimana tren daya beli masyarakat DKI Jakarta berubah dalam beberapa tahun terakhir?
 4. Bagaimana distribusi layanan kesehatan di setiap kota di DKI Jakarta bila dibandingkan dengan luas wilayah masing-masing?
+
+---
+
+tbc...
