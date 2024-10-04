@@ -10,8 +10,6 @@
 | 4   | Rasendriya Andhika              | 2305309    |
 | 5   | Yattaqi Ahmad Faza              | 2311216    |
 
----
-
 ### **Pendahuluan**
 
 Pemerataan ekonomi menjadi isu penting yang sering diperbincangkan di berbagai daerah, termasuk DKI Jakarta, ibu kota negara yang memiliki dinamika ekonomi sangat kompleks. Untuk memahami lebih dalam mengenai kondisi ini, beberapa faktor utama perlu dianalisis, di antaranya:
@@ -26,13 +24,9 @@ Pemerataan ekonomi menjadi isu penting yang sering diperbincangkan di berbagai d
 
 Melalui analisis faktor-faktor ini, penelitian ini akan mengeksplorasi bagaimana pemerataan ekonomi di DKI Jakarta terbentuk dan apa saja tantangan yang perlu diatasi.
 
----
-
 ### **Pertanyaan Penelitian**
 
 1. Bagaimana lama pendidikan seseorang berpengaruh terhadap pemerataan ekonomi di DKI Jakarta?
 2. Bagaimana komposisi masyarakat usia produktif memengaruhi tingkat pemerataan ekonomi di wilayah ini?
 3. Bagaimana tren daya beli masyarakat DKI Jakarta berubah dalam beberapa tahun terakhir?
 4. Bagaimana distribusi layanan kesehatan di setiap kota di DKI Jakarta bila dibandingkan dengan luas wilayah masing-masing?
-
----
